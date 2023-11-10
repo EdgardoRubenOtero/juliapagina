@@ -1,0 +1,1094 @@
+﻿
+<!DOCTYPE html>
+
+<html lang="es" class="no-js">
+<head>
+<meta charset="UTF-8" />
+<title>Julia Rouaux</title>
+<meta name="description" content="Ilustración Científica & Arte Naturalista"/>
+<meta name="keywords" content="ilustración científica, dibujo, pintura, cursos, arte naturalista, cientific ilustration, teaching">
+<meta name="author" content="Julia Rouaux">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link href='http://fonts.googleapis.com/css?family=Quicksand:300,400,700' rel='stylesheet' type='text/css'/>
+<link href='http://fonts.googleapis.com/css?family=Dosis:200,300,400,500,600,700,800' rel='stylesheet' type='text/css'/>
+    <link href="fonts/font-awesome-4.0.3/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="favicon.ico"/>
+
+
+<!-- jScrollPane -->
+    <link href="css/jquery.mCustomScrollbar.css" rel="stylesheet" type="text/css" />
+    <link href="css/fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="css/screen.css"/>
+<script src="js/modernizr.custom.js" type="text/javascript"></script>
+
+<script src="js/jquery-1.10.1.min.js" type="text/javascript"></script>
+    
+<script type="text/javascript" src="js/jquery.mousewheel.js"></script>
+<script src="js/fancybox/jquery.fancybox.js" type="text/javascript"></script>
+
+</head>
+<body id="homepage">
+
+<!-- Opener -->
+
+ <!-- <div class="modal">
+    <h1 id="testid" data-content="JULIA&nbsp;ROUAUX">JULIA&nbsp;ROUAUX</h1>
+</div> -->
+
+
+<!-- MENU AND TEXT LOGO -->
+
+<div class="menu collapse">
+    <h2>COLLODION LOGO</h2>
+    <h1>Julia Rouaux</h1>
+    <span>ilustración científica &amp; arte naturalista</span>
+	
+     <nav id="cbp-fbscroller1" class="cbp-fbscroller">
+        <a href="#fbsection1" class="cbp-fbcurrent">Inicio</a>
+        <a href="#fbsection2">Sobre</a>
+        <a href="#fbsection3">Experiencia</a>
+		<a href="#fbsection4">*ilustraciones b & n</a>
+		<a href="#fbsection5">*ilustraciones color</a>
+		<a href="#fbsection11">*felinos de sudamérica</a>
+		<a href="#fbsection13">*felinos del mundo</a>
+   <!-- <a href="#fbsection7">*diseño</a>-->
+		<a href="#fbsection8">*scratchboard</a>
+		 <!--<a href="#fbsection9">*fotografia fauna</a>-->
+		<a href="#fbsection14">Exposiciones</a>
+		<a href="#fbsection12">Servicios</a>
+		<a href="#fbsection10">Cursos & Talleres</a>
+		<a href="#fbsection6">Contacto</a>
+	    <a href="index.en.html"><h3>COLLODION LOGO</h3>
+       <br>
+				
+    </nav>
+				
+    </nav>
+   
+    <a class="tablet-close icon-menu"><i class="fa fa-align-justify"></i></a>
+</div>
+<div id="cbp-fbscroller" class="cbp-fbscroller">
+
+<!-- TEXT IN MIDDLE IMAGE TOP -->
+
+<section id="fbsection1"></section>
+
+<!-- SECTION ABOUT -->
+
+<section class="about" id="fbsection2">
+    <div class="block">
+        <div id="content_1" class="inner-left">
+            <header>SOBRE </header>
+                <ul class="about-data">
+                    <li>
+                        <span class="value">Julia Rouaux</span>
+                        <div class="clear"></div>
+                    </li>
+					  <li>
+                        <span class="value">Ilustradora viajera con sede en Buenos Aires, Argentina</span>
+                        <div class="clear"></div>
+                    </li>
+                                    
+            </ul>
+			
+			
+           
+            <p class="about-desc"><i class="fa fa-quote-left"></i>&nbsp;
+              
+             Dra. en Ciencias Naturales dedicada a la Ilustración Científica y al arte naturalista. 
+			 Miembro de la Asociación de Dibujantes de Argentina (ADA), el Colectivo de Ilustradores de la Ciencia y la Naturaleza de México (CICYNMX), <span style="font-style:italic;">Illustraciencia </span>(España) y del Guild of Natural Science Illustrators (GNSI). <br>
+             Realizó diferentes cursos y estadías de capacitación en Argentina, México y Portugal. Trabaja con técnicas tradicionales y digitales para proyectos científicos, de divulgación y de arte naturalista.<br>
+             Obtuvo una Beca de Formación individual (2017) y una de formación grupal para Formadores (2020) otorgadas por el Fondo Nacional de las Artes. <br>
+             Diferentes actividades y proyectos de su autoría fueron declarados de Interés Municipal por el Concejo Deliberante de La Plata. <br>
+             En 2020, la Fundación Museo de la Plata “Francisco Pascasio Moreno” le otorgó un “Reconocimiento a la labor artística en el campo de las Ciencias Naturales” en el marco del premio Lahille.&nbsp;&nbsp;<i class="fa fa-quote-right"></i><br>
+            </p>
+			<div class="clear"></div>
+			
+			
+			
+			 <!-- SECTION ABOUT 
+			 <header>SOCIEDADES ACADÉMICAS Y PROFESIONALES</header>
+			 <div class="services pack-service2">
+                <div class="service2">
+                    <div class="service-detail2">
+					    <p><span style="font-weight:bold;"> 2022. Guild of Natural Science Illustrators (GNSI, EE.UU.)<p><span style="font-weight:bold;"> 
+						<br>
+						<p><span style="font-weight:bold;"> 2022. Colectivo de Ilustradores de la Ciencia y la Naturaleza (CICYNMX). Socia Honoraria Profesional.</span> México. <br>
+						<br>
+						<p><span style="font-weight:bold;"> 2019 - presente. Adscripta a la División de Entomología del Museo de La Plata.</span> Buenos Aires, Argentina.  <br>
+						<br>
+						<p><span style="font-weight:bold;"> 2018 - presente. Integrante del Comité Internacional Asesor de Illustraciencia. </span>España. <br>
+						<br>
+						<p><span style="font-weight:bold;"> 2016 - presente. Asociación de Dibujantes de Argentina (ADA). </span> <br><br>
+					</div>
+                </div>
+            </div>-->
+		
+			         
+			
+<br>.<br>
+        <header>FORMACIÓN</header>
+			 <div class="services pack-service2">
+                <div class="service2">
+                   <div class="service-detail2">
+                        <h6>biología</h6>
+                        <p><br>Postgrado: <br><span style="font-weight:bold;"> Doctorado en en Ciencias Naturales</span>, Facultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata (UNLP). Abril 2010-septiembre 2015. <a href="http://sedici.unlp.edu.ar/handle/10915/48781" target="blank"><i class="fa fa-leaf"></i>ver</a><br>
+						<br> Grado: <br><span style="font-weight:bold;"> Licenciatura en Biología, Orientación Zoología</span>, Facultad de Ciencias Naturales y Museo, UNLP. 2007.<br><br></p> 
+                   </div>
+                </div>
+            </div>
+            <div class="services pack-service2">
+                <div class="service2">
+                   <div class="service-detail2">
+                        <h6>ilustración científica</h6>
+                        <p>
+						En el exterior:<br>
+						<span style="font-weight:bold;">2022. Curso online Grafite e as Texturas da Natureza.</span>
+						<br>Dictado por Rogério Lupo. São Paulo, Brazil. 23 de marzo al 12 de abril. Carga horaria: 18 hs.  
+                        <br><br>
+						<span style="font-weight:bold;">2017. Estadía de Capacitación Dedicada. Aveiro, Portugal.</span>
+						<br>Tutor: F.J.S. Correia. Laboratorio de Ilustración Científica, Universidad de Aveiro, Portugal. 12 de junio al 8 de agosto. 
+                        <br><br>
+						<span style="font-weight:bold;">2015. Diplomado en Ilustración Científica. Mérida, México. </span>
+						<br> Módulo I aprobado a distancia por antecedentes en la Disciplina. Módulo II aprobado de manera presencial, del 23 de octubre al 13 de diciembre. Sede Mérida, UNAM México. Dictado por: Lic. A. Guerra Escamilla.Carga horaria: 60 hs.
+						<br><br><span style="font-weight:bold;">2015. Pasantía Profesional: Perfeccionamiento en Ilustración Científica y de Historia Natural</span>. Carga horaria: 40 hs. Naturae-art, Mérida Yucatán, México. Tutor: A. Guerra Escamilla.<br></p> 
+                        <br>
+				        <p>
+						En Argentina: <br>
+						<span style="font-weight:bold;">2009. Técnicas en Blanco y Negro para Ilustración Científica Botánica. </span>Facultad de Ciencias Agrarias y Forestales, UNLP. Dictado por: María A. Migoya. Carga horaria: 44 hs.<br>
+						<br><span style="font-weight:bold;"> 2008. Pasantía Profesional: Perfeccionamiento en Ilustración Científica. </span>Laboratorio de Ilustración Científica, Centro de Estudios Parasitológicos y de Vectores, (CEPAVE, UNLP- CONICET). Directora: M.C. Estivariz. Carga horaria: 8 hs semanales. <br><br>
+						<span style="font-weight:bold;">2008. Ilustración Científica Botánica. </span> Facultad de Agronomía, UBA. Organizado por la Sociedad Argentina de Botánica(S.A.B.). Dictado por: M.A. Migoya y N. Valgañón. Carga horaria: 40 hs.<br><br>
+						<span style="font-weight:bold;"> 2007. Introducción a la Ilustración Científica.</span> Centro de Estudios Parasitológicos y de Vectores (CEPAVE, CONICET-UNLP). La Plata. Dictado por: M.C. Estivariz, M. Theiller y M. Pérez.Carga horaria: 150 hs.<p><br><br>
+					<p>	
+				   
+				   </div>
+                </div>
+            </div>
+            
+			
+			 <div class="clear"></div>
+			<header>NOTAS</header>			
+			<div class="services pack-service2">
+                <div class="service2">
+                    <div class="service-detail2">
+					    <p><span style="font-weight:bold;">2021. CICyNMX: Recorriendo el camino de la Biologia a la Ilustración Científica. </span>México. <a href="https://www.youtube.com/watch?app=desktop&v=9OAA5j50OwQ&ab_channel=ColectivoIlustradoresCienciaylaNaturalezaMX" target="blank"> <i class="fa fa-leaf"></i>ver</a></p><br>
+					    <p><span style="font-weight:bold;">2020. Pizzini Argentina: Entrevista por Karina Manzanelli. </span>Buenos Aires, Argentina. <a href="https://www.youtube.com/watch?app=desktop&v=jnOPqJ18Wmk&ab_channel=PizziniArgentina" target="blank"> <i class="fa fa-leaf"></i>ver</a></p><br>
+					    <p><span style="font-weight:bold;">2020. Revista Lento: Mirada de Lince. </span>Montevideo, Uruguay. <a href="https://ladiaria.com.uy/lento/articulo/2020/4/mirada-de-lince/?fbclid=IwAR1_rKPZQIgsobRfwB3480na5KkTnFxrgBC_5wo5RJ1lbqPoHq5bVagNOK8" target="blank"> <i class="fa fa-leaf"></i>ver</a></p><br>
+					    <p><span style="font-weight:bold;">2018. La Bióloga que quería dibujar. </span>Nota realizada por el Fondo Nacional de las Artes. <a href="https://fnartes.gob.ar/novedades/la-biologa-que-queria-dibujar" target="blank"> <i class="fa fa-leaf"></i>ver</a></p><br>
+                        <p><span style="font-weight:bold;">2015. Dibujantes del Museo de La Plata: Julia Rouaux.  </span>López, H. L. & D. Nadalin (Compiladores). ProBiota, FCNyM, UNLP, La Plata, Argentina, Serie Arte y Sociedad en la Ictiología Nacional 14: 1-21. ISSN 1515-9329. 
+						<a href="img/doc/ProBiota_ J. Rouaux.pdf" target="blank"> <i class="fa fa-leaf"></i>ver</a></p><br>
+					</div>
+                </div>
+            </div>
+			 <div class="clear"></div>
+			
+			
+        </div>
+    </div>
+</section>
+
+<!-- SECTION EXPERIENCES -->
+
+<section class="experience" id="fbsection3">
+    <div class="block">
+        <div id="content_1" class="inner-left">
+            <header>EXPERIENCIA</header>
+			    <div class="services pack-service2">
+                <div class="service2">
+                    <div class="service-detail2">
+                        <h6>Técnicas</h6>
+                        <p><span style="font-weight:bold;">En blanco y negro:</span> punteado con tinta sobre papel vegetal, lápiz de grafito sobre distintos sustratos y Scratch (técnica de raspado) con tinta y lápiz sobre poliestireno de alto impacto.<br>
+						<br><span style="font-weight:bold;"> Color:</span> lápices acuarelables y polycrhomos, acrílicos y digital.<br></p>
+                    </div>
+                </div>
+            </div>
+			
+			 <div class="services pack-service2">
+                <div class="service2">
+                    <div class="service-detail2">
+                        <h6>Ilustración científica y naturalista</h6>
+						<p><span style="font-weight:bold;"> 2008-presente:</span>  ilustraciones para papers, posters y tesis doctorales.<br>
+						
+						<br><span style="font-weight:bold;">2023. </span> Ilustraciones científicas y esquemas para el trabajo: <span style="font-weight:bold;">"Honeydew production by the giant willow aphid (<span style="font-style:italic">Tuberolachnus salignus</span>, Hemiptera: Aphididae) and its effect on foraging yellowjackets (Hymenoptera: Vespidae)."</span> 
+						</span> </span> Martínez A.S., Villacide J.A., Buteler M., Serra M.N. & M. Masciocchia. Pest Management Science. 
+						<a href="https://www.x-mol.net/paper/article/1641316415368998912" target="blank"> <i class="fa fa-leaf"></i>ver</a><br>
+						
+						<br><span style="font-weight:bold;">2023. </span> Ilustración científica de <span style="font-weight:bold;"><span style="font-style:italic"> Panthera onca </span> </span> (yaguareté) y  <span style="font-weight:bold;"><span style="font-style:italic"> Lagothrix lagotricha </span>
+						</span>(mono lanudo) para el Museo Nacional de Historia Natural de La Paz (MNHN), Bolivia. </span><br>
+						
+						<br><span style="font-weight:bold;">2022. </span> Ilustración científica de <span style="font-weight:bold;"><span style="font-style:italic"> Morpho epistrophus argentinus </span> </span> (mariposa bandera argentina) para la nota <span style="font-weight:bold;">"Los secretos de la mariposa bandera argentina."</span>  
+						Proyecto diario La Nación Naturaleza. </span><a href="https://www.lanacion.com.ar/sociedad/los-secretos-de-la-mariposa-bandera-argentina-nid20062022/#/" target="blank"> <i class="fa fa-leaf"></i>ver</a><br>
+						
+						<br><span style="font-weight:bold;">2022. </span> Ilustraciones científicas y esquemas para el cuadernillo: <span style="font-weight:bold;">"La mosca de las alas manchadas, <span style="font-style:italic">Drosophila suzukii, </span><span style="font-weight:bold;">en la Comarca Andina."</span> <span style="font-style:italic"> 
+						</span> </span> Martínez Von Ellrich A., Cardozo A., Masciocchi M., Fischbein D., Germano M. D., Chillo M. V., De la Vega G., Mariño J. & G. Garis. Ediciones INTA.
+						<a href="https://www.researchgate.net/publication/361601558_La_mosca_de_las_alas_manchadas_Drosophila_Suzuki_en_la_comarca_andina_Instituto_de_Investigaciones_Forestales_y_Agropecuarias_Bariloche_IFAB_Agencia_de_Extension_Rural_El_Bolson_Agencia_de_Extension_R" target="blank"> <i class="fa fa-leaf"></i>ver</a><br>
+						
+						<br><span style="font-weight:bold;">2021. </span> Ilustración científica del taladrillo de los forestales, <span style="font-style:italic">Megaplatypus mutatus. </span>En:<span style="font-weight:bold;"> "Distribución e impactos del taladrillo de los forestales, <span style="font-style:italic">Megaplatypus mutatus."</span></span> Grupo de ecología de poblaciones de insectos, INTA Bariloche.  
+						<a href="https://es.surveymonkey.com/r/?sm=3LxcANnF_2BpNAloL0ycZpKg_3D_3D" target="blank"> <i class="fa fa-leaf"></i>ver</a><br>
+						
+						<br><p><span style="font-weight:bold;"> 2021.</span>  Reconstrucción paleobotánicas de hoja de </span><span style="font-weight:bold;"><span style="font-style:italic;">Yabeiella brackebuschiana. </span></span> Cariglino B. Museo Argentino de Ciencias Naturales, Bernardino Rivadavia. 
+					   
+						
+						<br><br><span style="font-weight:bold;">2021. </span> Ilustración científica de <span style="font-style:italic">Diphterostomum flavum. </span>En:<span style="font-weight:bold;"> "Cryptic speciation of the zoogonid digenean <span style="font-style:italic">Diphterostomum flavum </span>n.sp. demonstrated by morphological and molecular data."</span> Gilardoni C., Etchegoin J., Cribb T., Pina S., Rodrigues P., Diez M.E. & F. Cremonte. Parasite 27, 44.   
+						<a href="https://drive.google.com/file/d/1TcFHXz-pjEIisWs8mAcccLk0OnNZE1d5/view?usp=sharing" target="blank"> <i class="fa fa-leaf"></i>ver</a><br>
+						
+						<br><span style="font-weight:bold;">2019. </span> Arte de Tapa, en colaboración con A.J. Tiscornia, para la guía <span style="font-weight:bold;">"Peces del bajo Río Uruguay: Especies destacadas." </span>Serra S., Loureiro M., Clavijo C., Alonso F., Scarabino F. & N. Ríos. Eds. CARU.   
+						<a href="https://www.caru.org.uy/web/pdfs_publicaciones/Peces%20del%20bajo%20Rio%20Uruguay%20para%20web%2021112019.pdf" target="blank"> <i class="fa fa-leaf"></i>ver</a><br>
+						
+						<br><span style="font-weight:bold;"> 2018-2019. </span> Ilustraciones para la <span style="font-weight:bold;">"Guía Ilustrada de Cánidos Salvajes del Mundo."</span> Ed. Londaiz Laborde (en preparación).
+						
+						<br><br><span style="font-weight:bold;">2018. </span> Arte de Tapa, en colaboración con A.J. Tiscornia, para la guía <span style="font-weight:bold;">"Plantas del bajo Río Uruguay: Árboles y Arbustos." </span>Rodríguez E.E., Aceñolaza P. Picasso G. & J. Gago. Eds. CARU.    
+						<a href="https://www.caru.org.uy/web/wp-content/uploads/2018/11/Libro_plantas_del_bajo_rio_uruguay_VERSION-DIGITAL.pdf" target="blank"> <i class="fa fa-leaf"></i>ver</a><br>
+						
+						<br><span style="font-weight:bold;">2017. </span>Ilustraciones científicas para el trabajo: <span style="font-weight:bold;"> Two new species of biting midges of the genus <span style="font-style:italic"> Forcipomyia </span> Meigen from Ecuador (Diptera Ceratopogonidae). </span> Hochman, S.I, Marino P.M. & G.R. Spinelli. Annales Zoologici (Warszawa), 2017, 67(4): 811-821.
+						<a href=" http://ri.conicet.gov.ar/handle/11336/41949?show=full" target="blank"> <i class="fa fa-leaf"></i>ver</a>
+						
+						<br><br><span style="font-weight:bold;"> 2016. Guía Ilustrada de Felinos Salvajes del Mundo.</span>Ilustraciones a cargo de Julia Rouaux & Luis Nuñez Ediciones Londaiz Laborde.<br>
+						<a href="https://issuu.com/masariche/docs/felinos_salvajes_del_mundo_promocio" target="blank"> <i class="fa fa-leaf"></i>ver</a>
+						
+						<br><br><span style="font-weight:bold;">2016. Besouro-gorgulho, <span style="font-style:italic;"> Naupactus densius</span> (Coleoptera: Curculionidae).</span> Estivariz M.C. & J. Rouaux. En: II Anatomia de uma ilustração : os bastidores da ilustração científica. Lopes L. & M. I. Castiñeira (eds). Palhoça : Ed.Unisul, Pp: 49-54. 
+						
+						<br><br><span style="font-weight:bold;">2016. </span>Ilustraciones científicas para el trabajo: <span style="font-weight:bold;"> Morphology of juvenile stages of <span style="font-style:italic">Kuschelina bergi</span> (Harold) with biological information (Coleoptera, Chrysomelidae, Alticini). </span>N.C. Cabrera, A.J. Sosa & M. Julien. Zookeys (561): 51-61. 
+						<a href="https://drive.google.com/file/d/1qm3U58a4yLGTRfc_QrZlu0-ypQR3a1Mg/view?usp=sharing" target="blank"> <i class="fa fa-leaf"></i>ver</a>
+						
+						<br><br><span style="font-weight:bold;"> 2016. Esquema de ubicación y accesibilidad del néctar en dos tipos florales para el trabajo: Trait matching of flower visitors and crops predicts fruit set better than trait diversity. </span> Garibaldi L.A., Bartomeus I., Bommarco R., Klein A.M., Cunningham S.A., Aizen M.A, et al. 2015.  Journal of Applied Ecology, Vol 52:1436–1444.
+						<a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxsdWNhc2FsZWphbmRyb2dhcmliYWxkaXxneDo2ZDM0ZjI1MWIxZmMxMTQw" target="blank"> <i class="fa fa-leaf"></i>ver</a>
+											
+						<br><br><span style="font-weight:bold;">2013. </span>Ilustraciones científicas para el trabajo: <span style="font-style:italic;font-weight:bold;">Phenrica littoralis </span><span style="font-weight:bold;"> (Bechyné, 1955) (Coleoptera: Chrysomelidae) a potential candidate for the biological control of alligator weed, <span style="font-style:italic;"> Alternanthera philoxeroides</span> (Martius) Grisebach (Amaranthaceae): redescription of the adult, first description of immature stages, and biological notes.</span> N.C. Cabrera, A.J. Sosa  & Mic Julien. 2013. Zootaxa  Vol 3686 (5).
+						<a href=" https://biotaxa.org/Zootaxa/article/view/zootaxa.3686.5.3" target="blank"> <i class="fa fa-leaf"></i>ver</a>
+						
+						<br><br><span style="font-weight:bold;"> 2012. Felinos de Sudamérica. </span>Una guía de identificación integral. J. Pereira & G. Aprile. Ilustraciones a cargo de Luis Nuñez & Julia Rouaux. Ediciones Londaiz Laborde. <a href="img/doc/3.jpg" target="blank"> <i class="fa fa-leaf"></i>ver</a><br>
+						
+						<br><span style="font-weight:bold;"> 2012.</span> Ilustración de la nueva especie <span style="font-style:italic;">Rhytidognathus platensis,</span> en el trabajo: <span style="font-weight:bold;"> A new species of <span style="font-style:italic;">Rhytidognathus </span>(Carabidae, Migadopini) from Argentina. Roig-Juñent S. & J. Rouaux 2012. </span>ZooKeys 247: 45–60.
+						<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3520139/" target="blank"> <i class="fa fa-leaf"></i>ver</a></p>
+											
+					 	<br><p><span style="font-weight:bold;"> 2011.</span>  Reconstrucción paleobotánicas </span> para el trabajo: <span style="font-weight:bold;"> "Growth architecture and silhouette of Jurassic conifers from La Matilde Formation, Patagonia, Argentina." </span>P. Falaschi, J.  Grosfeld, A.B. Zamuner, N. Foix y S.M. Rivera. Palaeogeography, Palaeoclimatology, Palaeoecology 302 (2011) 122–141.
+					    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031018210007108" target="blank"> <i class="fa fa-leaf"></i>ver</a>
+						<br><br><span style="font-weight:bold;"> 2010. </span>Reconstrucciones paleobotánicas  para la tesis doctoral titulada: <span style="font-weight:bold;">"Sistemática, Paleoecología e Indicaciones Paleoclimáticas de la Tafoflora Monumento Natural Bosques Petrificados, Jurásico Medio, Patagonia, Argentina."</span>  Dra  P. Falaschi. Facultad de Ciencias Naturales y Museo de La Plata. Marzo de 2010.<br>
+                        
+						
+						</div>
+                </div>
+			</div>
+            <div class="services pack-service2">
+                <div class="service2">
+                    <div class="service-detail2">
+                        <h6>Divulgación</h6>
+                        <p><span style="font-weight:bold;"> 2015. Dibujando Bichos: la Ilustración Científica en la Entomología.</span> Rouaux J. Revista del Museo de La Plata. Nº27. Junio 2015.<br><a href="https://www.academia.edu/27954924/Rouaux_J._2015._Dibujando_Bichos_la_Ilustraci%C3%B3n_Cient%C3%ADfica_en_la_Entomolog%C3%ADa._Revista_del_Museo_de_La_Plata" target="blank"> <i class="fa fa-leaf"></i>ver</a><br>
+						<br><span style="font-weight:bold;">2015. La Ilustración Científica y la Entomología: Buenas Compañeras.</span> Rouaux J., Esponda-Behrens N. Bialoskorski V., Copello M., Granda V., Marcantoni P, Vidal Vanessa & Estivariz M.C. IX Congreso Argentino de Entomología (CAE). Posadas, Misiones, 19 al 22 de mayo de 2015. Libro de resúmenes, área temática 10 pág. 40. <a href="img/doc/2.pdf" target="blank"> <i class="fa fa-leaf"></i>ver</a><br>
+						<br><span style="font-weight:bold;">2012. Participación del “Encuentro de Ilustración de Relatos”</span>, en el marco del Proyecto de Extensión ¿De qué hablamos cuando hablamos de Chagas? Estrategias y recursos didácticos para abordar el tema en diferentes contextos educativos. Parque Ecológico Municipal de La Plata, 11 de noviembre de 2012.<br>
+						<br><span style="font-weight:bold;">2011. Exposición de Ilustración Científica.</span> Organización en colaboración con M. C. Estivariz y Marianne Späth. Facultad de Ciencias Naturales y Museo. 09 al 20 de mayo de 2011.<br>
+						<br><span style="font-weight:bold;">2011. Participación en el informe sobre Ilustración Científica emitido por el programa televisivo “Científicos Industria Argentina”</span>. TVPública. 9 de abril de 2011.<br>
+						<br><span style="font-weight:bold;">2010. Guía didáctica para el Taller de Capacitación Docente: "Invasiones biológicas, mascotas y tráfico de fauna: capacitación y recursos didácticos para trabajar en el aula usando ardillas exóticas como ejemplo regional".</span> Guichón M.L., Borgnia M., Cassini G., Gorla N., Barbetti E., Spath M. & J. Rouaux. Grupo de Ecología de Mamíferos Introducidos. Departamento de Ciencias Básicas, Universidad Nacional de Luján.<br></p>
+					</div>	
+                </div>
+            </div>
+			<!-- <div class="services pack-service2">
+                 <div class="service2">
+                    <div class="service-detail2">
+                        <h6>Diseño</h6>
+						<br><p><span style="font-weight:bold;"> 2015-presente. Diseño editorial: Revista Probiota</span>, Facultad de Ciencias Naturales y Museo. ISSN: 1515-9329. <br>
+						<br><p><span style="font-weight:bold;"> 2013-2017. Diseño editorial: Boletín de la Sociedad Entomológica Argentina (SEA).</span> ISSN 1666-4612. N°: 24 (1-2)2013, 25(1)2014, 25 (2)2014, 26(1)2015, 26(2)2015 y 27(1)2016. <a href="http://seargentina.myspecies.info/node/10" target="blank"> <i class="fa fa-leaf"></i>ver</a><br>
+						<br><span style="font-weight:bold;">2016. Logo </span> para el Instituto de Investigaciones en Recursos Naturales, Agroecología y Desarrollo Rural (IRNAD), Sede Andina, Universidad Nacional de Río Negro. <br>
+						<br><span style="font-weight:bold;">2014. Tríptico de divulgación impresa y on-line: Le interesa plantar cipreses? </span>Garibaldi LA, Gobbi M, Gowda J, Grosfeld J, Heinemann K, Kitzberger T, Pastorino M, Rouaux J & F. Salvaré. CONICET, INTA, SFA, Subs. Rec. Forestales, UNRN y UNCo. <a href="https://drive.google.com/file/d/0B4ISYoY_VnpkbmpSLXZWcmhTc0U/edit?pref=2&pli=1" target="blank"> <i class="fa fa-leaf"></i>ver</a><br>
+						<br><span style="font-weight:bold;">2013. Guías prácticas para la Cátedra de Entomología:</span><br> 1) Regiones del cuerpo de los Hexápodos: Tagmosis, y <br>2)Desarrollo post-embrionario. Facultad de Ciencias Naturales y Museo de La Plata. <br>
+						<br><span style="font-weight:bold;"> 2013. Logo </span>para el "Protocolo de Estrategias de Conservación  de la Biodiversidad en Bosques Plantados de Salicáceas del Bajo Delta del Paraná". Fracassi, N. [et.al.]. - 1a ed. - Delta del Paraná, Buenos Aires: Ediciones INTA, 2013. <a href="http://inta.gob.ar/sites/default/files/script-tmp-inta_-_protocolo_estrategias_de_conservacion_de_la_bi.pdf" target="blank"> <i class="fa fa-leaf"></i>ver</a><br><br>
+						<br><span style="font-weight:bold;">2012. </span>Participación en la remodelación y puesta en valor de contenidos y material de exhibición de la<span style="font-weight:bold;"> Sala de Entomología del Museo de La Plata: </span>diseño de vitrinas, ordenamiento del material, ilustraciones.<br></p><br>
+                    </div>
+                </div>
+            </div>
+           	<div class="services pack-service2">
+                <div class="service2">
+                    <div class="service-detail2">
+                        <h6>Otros</h6>
+						<p><br><span style="font-weight:bold;">2013. Participación en la muestra colectiva "Inundación y después..."</span>, en la sección de fotografía, realizada en el Museo de Arte y Memoria. La Plata, 4 de abril.<br>
+						<br><span style="font-weight:bold;">2013. Mención Honorífica en el Concurso “Proyectos”</span>; fotografía seleccionada para integrar el calendario institucional 2014 del Instituto de Previsión Social de la Provincia de Buenos Aires (IPS). La Plata, diciembre de 2013.<br>
+				        <br><span style="font-weight:bold;">2009. Exposición de Ilustraciones Científicas en las "III Jornadas de Jóvenes Investigadores".</span>  Facultad de Ciencias Naturales y Museo, La Plata, 9 al 11 de septiembre. </p><br><br>
+				</div>-->
+           </div>
+    </div>
+</section>
+
+
+<!-- SECTION PORTFOLIO BLANCO Y NEGRO -->
+
+    <section id="fbsection4">
+    <div class="block">
+    <div id="bl-main" class="bl-main">
+    <section>
+        <a href="img/byn/grandes/1.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title"><span style="font-style:italic;">Caligo </span>sp.<br>(Lepidoptera: Nymphalidae)<br> Lápiz sobre pai</span>
+        </a>
+    </section>
+    <section>
+        <a href="img/byn/grandes/2.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Reconstrucción paleobotánica<br><span style="font-style:italic;">Araucaria mirabilis</span><br> Lápiz sobre pai</span>
+        </a>
+    </section>
+    <section>
+        <a href="img/byn/grandes/3.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Lámina de <span style="font-style:italic;">Phenrica littoralis</span><br>(Coleoptera: Chrysomelidae)<br> Tinta y lápiz sobre papel vegetal</span>
+        </a>
+    </section>
+    <section>
+        <a href="img/byn/grandes/4.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title"><span style="font-style:italic;">Rhytidognathus platensis</span> <br>(Coleoptera: Carabidae)<br>Lápiz sobre opalina</span>
+        </a>
+    </section>
+    <section>
+        <a href="img/byn/grandes/5.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Cráneo de zorro colorado <br><span style="font-style:italic;">Lycalopex culpaeus </span><br>Lápiz sobre opalina</span>
+        </a>
+    </section>
+    <section>
+    <a href="img/byn/grandes/6.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Caballito de mar patagónico<br><span style="font-style:italic;">Hippocampus patagonicus </span><br> Lápiz sobre pai</span>
+        </a>
+    </section>
+
+    <section>
+       <a href="img/byn/grandes/7.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Taladrillo de los forestales <br><span style="font-style:italic;">Megaplatypus mutatus</span><br> Lápiz sobre opalina</span>
+        </a>
+    </section>
+    <section>
+        <a href="img/byn/grandes/8.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title"><span style="font-style:italic;">Graea horrida</span><br> (Orthoptera: Ommexechidae)<br> Punteado sobre papel vegetal</span>
+        </a>
+    </section>
+	<section class="projects-full">
+        <a href="img/byn/grandes/9.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title"><span style="font-style:italic;">Pachycheles haigae</span><br> (Cangrejo de porcelana)<br>Lápiz sobre pai</span><p>
+        </a>
+    </section>
+</div>
+</div>
+</section>
+
+<!-- SECTION PORTFOLIO COLOR -->
+
+    <section id="fbsection5">
+    <div class="block">
+    <div id="bl-main2" class="bl-main2">
+    <section>
+        <a href="img/color/grandes/1.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title"> Mariposa bandera argentina<span style="font-style:italic;"><br>Morpho epistrophus argentinus</span><br>Ilustración digital</span>
+        </a>
+    </section>
+    <section>
+        <a href="img/color/grandes/2.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Flora de la Comarca Andina<br> Ilustración digital</span>
+        </a>
+    </section>
+    <section>
+       <a href="img/color/grandes/3.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Cangrejo braquiuro<br><span style="font-style:italic;"> Etisus </span>sp.<br> Ilustración digital<br></span>
+        </a>
+    </section>
+    <section>
+        <a href="img/color/grandes/4.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title"> Picaflor rubí <br><span style="font-style:italic;">Sephanoides sephaniodes</span><br>Acuarelas y fondo digital</span>
+        </a>
+    </section>
+    <section class="projects-full">
+        <a href="img/color/grandes/5.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title"><span style="font-style:italic;">Caligo</span> sp. <br>(Lepidopera: Nymphalidae)<br> Lápiz de grafito y color digital</span>
+        </a>
+    </section>
+    <section>
+        <a href="img/color/grandes/6.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title"><br> Aguará guazú <span style="font-style:italic;"><br>Chrysocyon brachyurus</span> <br>Ilustración digital</span>
+        </a>
+    </section>
+    <section>
+        <a href="img/color/grandes/7.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Fauna marina patagónica<br>Ilustración digital</span>
+        </a>
+    </section>
+    <section>
+        <a href="img/color/grandes/8.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title"> Mosca de las alas manchadas <br> <span style="font-style:italic;">Drosophila suzukii</span><br>Ilustración digital</span>
+        </a>
+    </section>
+    <section class="projects-full">
+        <a href="img/color/grandes/9.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Ciclo de vida <br> <span style="font-style:italic;">Drosophila suzukii</span><br>Ilustración digital</span>
+        </a>
+    </section>
+</div>
+</div>
+</section>
+
+<!-- SECTION FELINOS DE SUDAMERICA -->
+
+     <section id="fbsection11">
+    <div class="block">
+    <div id="bl-main3" class="bl-main3">
+    <section>
+        <a href="img/felinosud/grandes/1.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title"> Rastros<br> Libro Felinos de Sudamérica<br> Polychromos, acrílicos y digital</span>
+        </a>
+    </section>
+    <section>
+        <a href="img/felinosud/grandes/2.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title"> Posturas de <span style="font-style:italic;">Leopardus geoffroyi</span> (gato montés)<br> Libro Felinos de Sudamérica<br> CorelDraw</span>
+        </a>
+    </section>
+    <section>
+        <a href="img/felinosud/grandes/3.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Rastros<br> Libro Felinos de Sudamérica<br> Polychromos, acrílicos y digital</span>
+        </a>
+    </section>
+    <section>
+        <a href="img/felinosud/grandes/4.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Rastros<br> Libro Felinos de Sudamérica<br> Polychromos, acrílicos y digital</span>
+		</a>
+    </section>
+    <section class="projects-full">
+        <a href="img/felinosud/grandes/5.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Libro Felinos de Sudamérica<br> CorelDraw </span>
+        </a>
+    </section>
+    <section>
+        <a href="img/felinosud/grandes/6.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Rastros<br> Libro Felinos de Sudamérica<br> Polychromos, acrílicos y digital</span>
+		</a>
+    </section>
+    <section>
+	<a href="img/felinosud/grandes/7.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Yaguareté<br> Libro Felinos de Sudamérica<br> CorelDraw </span>
+		</a>
+    </section>
+    <section>
+	<a href="img/felinosud/grandes/8.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Presas<br> Libro Felinos de Sudamérica<br> CorelDraw </span>
+		</a>
+    </section>
+    <section>
+	<a href="img/felinosud/grandes/9.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Presas<br> Libro Felinos de Sudamérica<br> CorelDraw </span>
+		</a>
+    </section>
+    <section>
+	</a>
+    </section>
+	<section>
+        <a href=" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title"><br></span>
+        </a>
+    </section>
+</div>
+</div>
+</section>
+
+<!-- SECTION FELINOS DEL MUNDO -->
+
+    <section id="fbsection13">
+    <div class="block">
+    <div id="bl-main2" class="bl-main4">
+    <section>
+        <a href="img/felinos/grandes/1.jpg" class="bl-box fancybox-effects-d" title="">
+         <span class="project-title">Portada del libro <span style="font-style:italic;">Guía Ilustrada de <br>Felinos Salvajes del Mundo</span><br> Técnica mixta</span>
+        </a>
+    </section>
+    <section>
+        <a href="img/felinos/grandes/2.jpg" class="bl-box fancybox-effects-d" title="">
+       <span class="project-title">Serval (<span style="font-style:italic;">Leptailurus serval</span>)<br>Técnica mixta
+        </a>
+    </section>
+    <section>
+       <a href="img/felinos/grandes/3.jpg" class="bl-box fancybox-effects-d" title="">
+       <span class="project-title">Gato indio del desierto (<span style="font-style:italic;">F. silvestris ornata</span>)<br>Técnica mixta
+        </a>
+    </section>
+    <section>
+        <a href="img/felinos/grandes/4.jpg" class="bl-box fancybox-effects-d" title="">
+      <span class="project-title">Gato montés africano(<span style="font-style:italic;">F. silvestris lybica</span>)<br>Técnica mixta
+        </a>
+    </section>
+    <section class="projects-full">
+        <a href="img/felinos/grandes/5.jpg" class="bl-box fancybox-effects-d" title="">
+      <span class="project-title">Gato de bengala (<span style="font-style:italic;">Prionailurus bengalensis</span>)<br>Técnica mixta
+        </a>
+    </section>
+    <section>
+        <a href="img/felinos/grandes/6.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Pantera nebulosa (<span style="font-style:italic;">Neofelis nebulosa</span>)<br>Técnica mixta
+        </a>
+    </section>
+    <section>
+        <a href="img/felinos/grandes/7.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Pantera de Diard (<span style="font-style:italic;">Neofelis diardi</span>)<br>Técnica mixta
+        </a>
+    </section>
+    <section>
+        <a href="img/felinos/grandes/8.jpg" class="bl-box fancybox-effects-d" title="">
+      <span class="project-title">Gato montés europeo (<span style="font-style:italic;">F. silvestris silvestris</span>)<br>Técnica mixta
+        </a>
+    </section>
+    <section class="projects-full">
+      <a href="img/felinos/grandes/9.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Ambientes<br>Técnica mixta</span>
+        </a>
+    </section>
+</div>
+</div>
+</section>
+
+
+
+<!-- SECTION PORTFOLIO SCRATCHBOARD -->
+
+    <section id="fbsection8">
+    <div class="block">
+    <div id="bl-main5" class="bl-main6">
+    <section>
+        <a href="img/pai/grandes/1.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Yaguareté<br><span style="font-style:italic;">Panthera onca</span>
+		</a>
+    </section>
+    <section>
+	    <a href="img/pai/grandes/2.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Puma<br><span style="font-style:italic;">Puma concolor</span>
+		        </a>
+    </section>
+    <section>
+         <a href="img/pai/grandes/3.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Gato montés<br><span style="font-style:italic;">Leopardus geoffroyi</span>
+        </a>
+    </section>
+    <section>
+         <a href="img/pai/grandes/4.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Laucha colilarga<br><span style="font-style:italic;">Eligmodontia typus</span>
+        </a>
+    </section>
+    <section class="projects-full">
+        <a href="img/pai/grandes/5.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Monitos del monte<br><span style="font-style:italic;">Dromiciops gliroides</span>
+	    </a>
+    </section>
+    <section>
+         <a href="img/pai/grandes/6.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Zorro rojo<br><span style="font-style:italic;">Vulpes vulpes</span>
+        </a>
+    </section>
+    <section>
+        <a href="img/pai/grandes/7.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Abeja europea <br><span style="font-style:italic;">Apis mellifera</span>
+		</a>
+    </section>
+    <section>
+		 <a href="img/pai/grandes/8.jpg" class="bl-box fancybox-effects-d" title="">
+		 <span class="project-title">Yaguareté<br><span style="font-style:italic;">Panthera onca</span>
+        </a>
+    </section>
+    <section>
+	    <a href="img/pai/grandes/9.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title"><br> Aguará guazú <span style="font-style:italic;"><br>Chrysocyon brachyurus</span> 
+        </a>
+    </section>
+  </div>
+</div>
+</section>
+
+<!-- SECTION PORTFOLIO FOTOGRAFIA FAUNA -->
+
+   <!-- <section id="fbsection9">
+    <div class="block">
+    <div id="bl-main6" class="bl-main7">
+    <section>
+        <a href="img/fau/grandes/1.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Zorro gris<br>Ischigualasto, La Rioja<br>Argentina</span>
+        </a>
+    </section>
+    <section>
+         <a href="img/fau/grandes/2.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title"><span style="font-style:italic;"> Bombus terrestris </span>(abejorro exótico)<br> Patagonia Argentina </span>
+        </a>
+    </section>
+    <section>
+         <a href="img/fau/grandes/3.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Cangrejo en Playas Doradas<br>Río Negro, Argentina</span>
+        </a>
+    </section>
+    <section>
+         <a href="img/fau/grandes/4.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title"><span style="font-style:italic;">Sephanoides sephaniodes</span><br>(picaflor rubí)<br>Bariloche, Río Negro</span>
+        </a>
+    </section>
+    <section class="projects-full">
+         <a href="img/fau/grandes/5.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title"><span style="font-style:italic;">Liolaemus elongatus</span><br>Bariloche, Río Negro</span>
+        </a>
+    </section>
+    <section>
+         <a href="img/fau/grandes/6.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title"><span style="font-style:italic;">Quiscalus mexicanus</span>(zanates)<br>Mérida, Yucatán, México</span>
+        </a>
+    </section>
+    <section>
+         <a href="img/fau/grandes/7.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title"><span style="font-style:italic;">Pygarrhichas albogularis</span><br>(picolezna patagónico)<br>Bariloche, Río Negro</span>
+        </a>
+    </section>
+    <section>
+         <a href="img/fau/grandes/8.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Polinizadores<br> Los Repollos, El Bolsón, Río Negro</span>
+        </a>
+    </section>
+    <section class="projects-full">
+         <a href="img/fau/grandes/9.jpg" class="bl-box fancybox-effects-d" title="">
+        <span class="project-title">Mariposa<br>Remedios de Escalada, Buenos Aires</span>
+        </a>
+    </section>
+</div>
+</div>
+</section>-->
+
+<!-- SECTION EXPOSICIONES -->
+
+<section class="about" id="fbsection14">
+    <div class="block">
+        <div id="content_1" class="inner-left">
+            <header>EXPOSICIONES</header>
+			 <div class="services pack-service2">
+                <div class="service2">
+                    <div class="service-detail2">
+                        <br><p><span style="font-weight:bold;"> 2023 <br>
+						<br>Co-existencia. Una muestra de la biodiversidad sudamericana en peligro.</span>
+						Exposición conjunta con la ilustradora Patricia Nagashiro, Vitoria-Gasteiz, España. 25 de abril al 3 de junio.  <br>
+						<br> _______________________________ <br>
+						
+						<br>
+                    </div>
+                </div>
+            </div>
+			  <div class="services pack-service2">
+                <div class="service2">
+                    <div class="service-detail2">
+                        <br><p><span style="font-weight:bold;"> 2019 <br>
+						<br>Muestra Individual: 
+						<br>Bezkres połączeń. </span>
+						9 al 23 de junio. Ogród Botaniczny,Cracovia, Polonia. <br>
+						<br> _______________________________ <br>
+						<br><p><span style="font-weight:bold;"> Muestras Colectivas:
+                        <br>Fuerza Sur. Muestra colectiva Suramericana.</span>
+						Diciembre. Benavente, Palermo, CABA, Argentina.<br>
+						<br><span style="font-weight:bold;"> Muestra de fin de año de Chantal Rosengurt. </span>Participación como invitadas especiales con trabajos propios y de diferentes ediciones del curso de Posgrado "Introducción a la Ilustración Científica".
+						Centro Cultural Estación Provincial, La Plata, Buenos Aires, Argentina.<br>
+						<br><span style="font-weight:bold;"> Imaginando a Bodoc: homenaje ilustrado. </span>13 de septiembre al 19 de octubre. 
+						Espacio Cultural de la Biblioteca del Congreso Nacional, CABA, Buenos Aires. Organizada por la Asociación de Dibujantes de Argentina (ADA). <br>
+					    <br><span style="font-weight:bold;"> Ilustradores: el proceso creativo. </span>
+						17 al 29 de mayo. Centro Cultural Islas Malvinas. Organizada por ADA sede La Plata, Argentina.<br>
+						<br><span style="font-weight:bold;">7 anos de Ilustração Científica na UA - a excelência do ensino. </span>
+						16 de enero al 26 de febrero. Sala Hélène de Beauvoir, Biblioteca de la Universidad de Aveiro, Portugal.<br>
+						<br>
+                    </div>
+                </div>
+            </div>
+            <div class="services pack-service2">
+                <div class="service2">
+                    <div class="service-detail2">
+					 <br><p><span style="font-weight:bold;"> 2018 <br>
+					 <br>Muestra individual:<br> Ilustracje naukowe i sztuka naturalistyczna: dr Julia Rouaux.</span>
+					 4 al 29 de junio. Biblioteka Kraków, Cracovia, Polonia. <br>
+					 <br> _______________________________ <br>
+					 <br><p><span style="font-weight:bold;"> Muestras colectivas: 
+					 <br> Ilustración Científica en Entomología. </span>Curadora y expositora. VI Congreso Internacional de Heteroptera. 
+					 3 al 6 de diciembre. Museo de La Plata, Buenos Aires, Argentina.<br>
+					 <span style="font-weight:bold;"><br>Muestra de Paleoarte. </span>Reunión de Comunicaciones de la Asociación Paleontológica Argentina (RCAPA). 
+					 21 al 23 de noviembre. CENPAT, Puerto Madryn, Chubut. Argentina. <br>
+					  <span style="font-weight:bold;"><br>Muestra temporal Ruta Darwin.</span> 2° edición del Festival Interactivo “Estación Juego” organizado por el Ministerio de Ciencia, Tecnología e Innovación, el Municipio de Tandil y la UNICEN. 
+					  18 al 30 de julio. Museo Municipal de Bellas Artes de Tandil, Buenos Aires. <br>
+					 <br>
+                    </div>
+                </div>
+            </div>
+            <div class="services pack-service2">
+                <div class="service2">
+                    <div class="service-detail2">
+					 <br><p><span style="font-weight:bold;"> 2017 <br>
+					 <br>Muestras colectivas:<br>Ilustración Científica.</span>
+					 VI Jornadas de Jóvenes Investigadores y Extensionistas en la UNLP. 
+					 31 de agosto al 4 de septiembre. Facultad de Ciencias Naturales y Museo, La Plata.  <br>
+					 <br><p><span style="font-weight:bold;"> Ilustradores platenses.</span> Feria del Libro infantil. La Plata, del 10 al 30 de julio. 
+					 Organizada por ADA (Asociación de Dibujantes de Argentina) sede La Plata, Fundación El Libro y Dirección de Cultura de la Municipalidad de La Plata.<br>
+					 <br>
+                    </div>
+                </div>
+            </div>
+            <div class="services pack-service2">
+                <div class="service2">
+                    <div class="service-detail2">
+					 <br><p><span style="font-weight:bold;"> 2016 <br>
+					 <br>Muestras colectivas:<br>I Exposición Nacional de Ilustración Científia.</span>
+					 Museo Provincial de Historia Natural, Santa Rosa, La Pampa. 07 de octubre al 04 de noviembre.<br>
+					 <br><p><span style="font-weight:bold;"> Ilustradores Científicos del Museo.</span> Curadora y expositora. Sala Víctor de Pol, Museo de La Plata. 
+					 21 de abril al 29 de mayo. <br>
+					 <br><p><span style="font-weight:bold;">Anatomia de uma Ilustração.</span> V Encontro Brasileiro sobre Ilustração Científica- EBIC. 
+					 Florianópolis, 20 al 23 de julio. <br>
+					  <br>
+                    </div>
+                </div>
+            </div>
+            <div class="services pack-service2">
+                <div class="service2">
+                    <div class="service-detail2">
+					 <br><p><span style="font-weight:bold;"> 2015 <br>
+					 <br>Muestras colectivas:<br>Primer Concurso de Ilustración Científica y Paleoarte.</span>
+					Expositora y Jurado evaluador. XVI Simposio Argentino de Paleobotánica y Palinología (SAPP). La Plata, 26 al 29 de mayo.<br>
+					 
+					  <br>
+                    </div>
+                </div>
+            </div>
+            <div class="services pack-service2">
+                <div class="service2">
+                    <div class="service-detail2">
+					 <br><p><span style="font-weight:bold;"> 2009-2011 <br>
+					 <br>Muestras colectivas:<br>Exposición de Ilustración Científica. </span>
+					Curadora y expositora en la Exposición de Ilustración Científica. Facultad de Ciencias Naturales y Museo. 09 al 20 de mayo de 2011.<br>
+					 <br><p><span style="font-weight:bold;"> Ilustración Científica. </span>
+					36 ª Feria del Libro, stand CEPAVE (CONICET-UNLP). Buenos Aires. 2010.<br>
+					 <br><p><span style="font-weight:bold;"> Ilustración Científica. </span>
+					III Jornadas de Jóvenes Investigadores. Facultad de Ciencias Naturales y Museo. La Plata. 9 al 11 de septiembre de 2009.<br>
+					 </p>
+					 			 
+                 				   
+                     </div>
+                </div>
+            </div>
+</section>
+
+
+<!-- SECTION SERVICIOS -->
+
+<section class="about" id="fbsection12">
+    <div class="block">
+        <div id="content_1" class="inner-left">
+            <header>SERVICIOS</header>
+			  <div class="services pack-service2">
+                <div class="service2">
+                    <div class="service-detail2">
+                        <br><p><span style="font-weight:bold;"> Ilustraciones científicas:</span> para editoriales, publicaciones científicas (papers), tesis de grado y posgrado</p>
+						<br>
+                    </div>
+                </div>
+            </div>
+            <div class="services pack-service2">
+                <div class="service2">
+                    <div class="service-detail2">
+					 <br><p><span style="font-weight:bold;"> Ilustraciones naturalistas:</span> para editoriales y trabajos de divulgación<br></p>
+                    </div>
+                </div>
+            </div>
+          	<!--<div class="services pack-service2">
+                <div class="service2">
+				<div class="service-detail2">
+                      <br><p><span style="font-weight:bold;"> Diseño:</span> folletos, dípticos, trípticos y pósters<br> 
+                       <br><p><span style="font-weight:bold;"> Diseño editorial:</span> guías y boletines<br></p><br>
+					   </div>
+                </div>
+            </div>-->
+   <!--        	<div class="services pack-service2">
+                <div class="service2">
+				<div class="service-detail2">
+                      <br><p><span style="font-weight:bold;"> Fotografía de la naturaleza</span></p><br> 
+					    </div>
+                </div>
+            </div>-->
+          	<div class="services pack-service2">
+                <div class="service2">
+				<div class="service-detail2">
+                      <br><p><span style="font-weight:bold;"> Dictado de cursos de ilustración científica: </span> dirigidos a estudiantes y graduados de Ciencias Biológicas, Bellas Artes y carreras afines<br> 
+                      <br><p><span style="font-weight:bold;"> Dictado de talleres de ilustración naturalista: </span> dirigidos al público en general</span><br> 				   
+                     </div>
+                </div>
+            </div>
+</section>
+
+
+<!-- SECTION CURSOS Y TALLERES -->
+
+<section class="about" id="fbsection10">
+    <div class="block">
+        <div id="content_1" class="inner-left">
+            <header>CURSOS & TALLERES </header>
+			<h6> </h6>
+			<br>Permanente<br>         				
+				<div class="services pack-service2">
+                <div class="service2">
+                       <div class="service-icon2"><i class= p><span style="color:red;">permanente</i></div> 
+                       <div class="service-detail2">
+					   <h6>Domestika</h6>
+			           <br><p><span style="font-weight:bold;">Curso online <br>"Ilustración naturalista con scratchboatd" <br></span>
+					   <br><a href="https://www.domestika.org/es/courses/1874-ilustracion-naturalista-con-scratchboard/julia_rouaux" target="blank"><span style="font-weight:bold;">
+						más información</span><i class="fa fa-leaf"></i></a></p><br>		
+					</div>
+               </div>
+		     </div>
+			 .<br>
+			 
+			 <div class="services pack-service2">
+                <div class="service2">
+                       <div class="service-icon2"><i class= p><span style="color:red;">permanente</i></div> 
+                       <div class="service-detail2">
+					   <h6>Tutorías</h6>
+			           <br><p><span style="font-weight:bold;">Tutorías y capacitaciones virtuales<br><br></span>
+					   <span style="font-weight:bold;">
+						consultas</span> al mail: ruojulia@gmail.com </a></p><br>		
+					</div>
+               </div>
+		     </div>
+			 .<br>
+			 
+			 
+               <h6> </h6>
+		<!-- 		   <br>2022. Segundo semestre<br>  
+                <div class="services pack-service2">
+                <div class="service2">
+                    <div class="service-icon2"><i class= p><span style="color:red;">diciembre</i></div> 
+                    <div class="service-detail2">
+                        <h6>Sta Cruz de la Sierra, Bolivia</h6>
+                        <br><p><span style="font-weight:bold;">Curso PostCongreso <br>"Ilustración Científica en Mastozoología" <br>Técnica: scratchboard</span><br>
+						<br>1 y 2 de diciembre, en el marco del IX Congreso Boliviano de Mastozoología
+						<br><a href="https://congreso.mastozoologiabolivia.com/wp-content/uploads/2022/10/CURSOscratchboard-1.pdf" target="blank"><span style="font-weight:bold;">
+						<br>más información</span><i class="fa fa-leaf"></i></a></p><br>
+					</div>
+               </div>
+		     </div>     
+			  <h6> </h6>-->.<br>
+			   <br>2023. Segundo semestre<br>  
+                <div class="services pack-service2">
+                <div class="service2">
+                    <div class="service-icon2"><i class= p><span style="color:red;">octubre</i></div> 
+                    <div class="service-detail2">
+                        <h6>Academia Illustraciencia</h6>
+                        <br><p><span style="font-weight:bold;">Curso online <br>"Ilustra mariposas" <br>Técnica: tinta y color digital</span><br>
+						<br>1° edición: 10, 17, 24 y 31 de octubre y 7 de noviembre + 3 semanas de proyecto final
+						<br><a href="https://cursos.illustraciencia.info/curso/ilustra-mariposas/" target="blank"><span style="font-weight:bold;">
+						<br>más información</span><i class="fa fa-leaf"></i></a></p><br>
+					</div>
+               </div>
+		 </div>
+		  <!--   <i class="fa fa-leaf"></i>
+				<br><br>2021. Primer Semestre<br>         				
+			<div class="services pack-service2">
+                <div class="service2">
+                       <div class="service-icon2"><i class= p><span style="color:red;">abril</i></div> 
+                       <div class="service-detail2">
+					   <h6>Academia Illustraciencia</h6>
+			           <br><br><p><span style="font-weight:bold;">Curso online <br>"Ilustra entomología" <br>Técnica: grafito y tinta</span><br>
+					   <br>5° edición: 22 y 29 de abril y 6, 13 y 20 de mayo
+				        <br><a href="https://cursos.illustraciencia.info/curso/ilustra-entomologia-curso-online/" target="blank"><span style="font-weight:bold;">
+						más información</span><i class="fa fa-leaf"></i></a></p><br><br>		
+					</div>
+               </div>
+		     </div>
+			 .<br>-->
+					
+			
+			
+            <header><i class="fa fa-leaf"></i></header>
+			   <h6>DICTADOS </h6><br>
+            	<div class="services pack-service2">
+                <div class="service2">
+                  <div class="service-detail2">
+                        <br><p><span style="font-weight:bold;">CURSOS Y TALLERES:</span><br>	
+						<br><span style="font-weight:bold;">2023. Charla: Ilustración científica y naturalista como herramientas para la divulgación y conservación de especies. Exposición «Co-existencia».</span> <br> En el marco del III Congreso Internacional de Ilustración Científica Online Illustraciencia. 20 de junio.
+                       	<br><br><span style="font-weight:bold;">2023. Masterclass: "Alas de mariposa: ilustración para la conservación".</span> <br> En el marco del III Congreso Internacional de Ilustración Científica Online Illustraciencia. 19 de junio.
+                        <br><br><span style="font-weight:bold;">2023. Taller: "Ilustra al visón europeo (<span style="font-style:italic;">Mustela lutreola</span>) con la técnica de  scratchboard".</span> <br> Ataria, Centro de interpretación de los humedales de Salburua, Vitoria Gasteiz, País Vasco. 3 de junio. 
+                        <br><br><span style="font-weight:bold;">2023. Masterclass: "Ilustración científica en Entomología: técnicas y aplicaciones".</span> <br> En el marco del proyecto COIL 2023: La ilustración y la fotografía en los procesos de conservación de insectos”. Organizado por las universidades UNIMINUTO de Colombia, UAG y UDG de México. 21 de abril. 
+                       	<br><br><span style="font-weight:bold;">2023. Taller: "Ilustración naturalista con técnica de scratchboard".</span> <br> Sala de Arte contemporáneo “Emilio Saraco”, Neuquén capital, Neuquén. 15 de abril.  
+                       	<br><br><span style="font-weight:bold;">2023. Seminario curricular: "Ilustración Naturalista con Técnica digital".</span> <br> Instituto Universitario Patagónicos de las Artes, General Roca, Río Negro. 10 al 14 de abril. 
+                       	<br><br><span style="font-weight:bold;">2023. Curso PostCongreso: "Ilustración Científica en Mastozoología".</span> <br> En el marco del IX Congreso Boliviano de Mastozoología. 18 y 19 de marzo. 
+                       	<br><br><span style="font-weight:bold;">2023. Charla magistral: "Ilustración Científica en Mastozoología: aplicaciones y técnicas".</span> <br> En el marco del IX Congreso Boliviano de Mastozoología. 15 de marzo. 
+                        						 						
+						<br> _______________________________ <br>
+						
+						<br><span style="font-weight:bold;">2022. Curso on line: "Ilustra Entomología".</span> <br>Academia Illustraciencia. 7° edición: 7,14,21 y 28 de junio y 5 de julio. <br>
+                            <a href="https://www.facebook.com/media/set/?vanity=JuliaRouaux.arteyciencia&set=a.518587360269492" target="blank"><span style="font-weight:bold;">
+						Galería</span><i class="fa fa-leaf"></i></a><br>
+						
+						<br><span style="font-weight:bold;">2022. Curso on line: "Ilustración científica: fauna del suelo."</span> <br>Curso pre congreso en el marco del Congreso Nacional de Ecología y biología de suelos- CONEBIOS VII. 
+						Universidad Nacional de La Plata. 12 y 13 de abril.<br>
+                        <br><span style="font-weight:bold;">2022. Conversatorio: "Ilustradoras científicas contemporáneas: experiencias, opiniones y expectativas."</span> <br>Colectivo de Ilustradores de la Ciencia y la Naturaleza de México. 8 de marzo.
+						
+                        <br> _______________________________ <br>
+						
+						<br><span style="font-weight:bold;">2021. Curso on line: "Ilustra Entomología".</span> <br>Academia Illustraciencia. 6° edición: 11 de noviembre al 9 de diciembre. <br>
+                            <a href="https://www.facebook.com/media/set/?set=a.3004288456554839&type=3" target="blank"><span style="font-weight:bold;">
+						Galería</span><i class="fa fa-leaf"></i></a><br>
+						  
+						  <br><span style="font-weight:bold;">2021. Capacitación on line: "Ilustración Científica en Entomología".</span> 
+						  <br>Financiada por el Fondo Nacional de las Artes (Argentina), dirigido a profesionales del Museo de La Plata e Instituciones relacionadas.
+					       <br> 5 de julio al 11 de agosto. <br>
+					     <br><span style="font-weight:bold;">2021. Curso on line: "Ilustra Entomología".</span>
+					       <br> Academia Illustraciencia. 5° edición: 22 de abril al 20 de mayo. <br>
+                            <a href="https://www.facebook.com/media/set/?vanity=JuliaRouaux.arteyciencia&set=a.2971987103118308" target="blank"><span style="font-weight:bold;">
+						Galería</span><i class="fa fa-leaf"></i></a><br>
+						
+						<br><span style="font-weight:bold;">2021. Masterclass: "Ilustración con grafito".</span> <br>En el marco del curso "Ilustrando la ciencia" online 2° edición. Academia Illustraciencia, Barcelona, España. 16 de abril. 
+												
+					
+						<br> _______________________________ <br>
+						
+						<br><span style="font-weight:bold;">2020. Curso on line: "Ilustra Entomología".</span> <br>Academia Illustraciencia. 3° edición: 21 de mayo al 18 de junio; 4° edición: 15 de octubre al 12 de noviembre. <br>
+							<a href="https://www.facebook.com/media/set/?vanity=JuliaRouaux.arteyciencia&set=a.2685408311776190" target="blank"><span style="font-weight:bold;">
+						Galería</span><i class="fa fa-leaf"></i></a><br>
+						<br><span style="font-weight:bold;">2020. Masterclass: "Ilustración con grafito".</span> <br>En el marco del curso "Ilustrando la ciencia" online 1° edición. Academia Illustraciencia, Barcelona, España. 13 de octubre. <br>
+													
+						<br><span style="font-weight:bold;">2020. Curso on line: "Ilustra Mamíferos: técnica digital".</span> <br>Academia Illustraciencia. 1° edición: 10 de septiembre al 8 de octubre. <br>
+						 <a href="https://www.facebook.com/media/set/?vanity=JuliaRouaux.arteyciencia&set=a.2685415368442151" target="blank"><span style="font-weight:bold;">
+						Galería</span><i class="fa fa-leaf"></i></a><br>
+						<br><span style="font-weight:bold;">2020. Curso on line: "Ilustración naturalista con técnica digital: Insectos de Patagonia".</span> <br>Museo Patagónico de Ciencias Naturales, General Roca, Río Negro, Argentina. 24 de agosto al 18 de septiembre. <br>
+						<a href="https://www.facebook.com/media/set/?vanity=JuliaRouaux.arteyciencia&set=a.2712940789022942" target="blank"><span style="font-weight:bold;">
+						Galería</span><i class="fa fa-leaf"></i></a><br>
+						<br><span style="font-weight:bold;">2020. Curso on line: "Ilustra Mamíferos: cráneos".</span> <br>Academia Illustraciencia. 1° edición: 16, 23 y 30 de abril, y 7 y 14 de mayo. <br>
+							<a href="https://www.facebook.com/media/set/?vanity=JuliaRouaux.arteyciencia&set=a.2556376578012698" target="blank"><span style="font-weight:bold;">
+						Galería</span><i class="fa fa-leaf"></i></a><br>
+						
+						<br><span style="font-weight:bold;">2020. Charla: "Ilustración Científica: donde arte y ciencia convergen."</span> 
+						<br>Conferencista invitada en la Edición 2020 del Ciclo “Pioneras: las Científicas del MACN”. Museo Argentino de Ciencias Naturales “Bernardino Rivadavia”. 10 de marzo.
+												
+						 <br> _______________________________ <br>
+						 
+						<br><span style="font-weight:bold;">2019. Curso de Educación Permanente: "Introducción a la Ilustración Científica".</span> 25 de noviembre al 6 de diciembre. Centro Universitario regional del Este, Universidad de la República.
+						<br>Rocha, República Oriental del Uruguay.<br> 
+					    <a href="https://www.facebook.com/media/set/?vanity=JuliaRouaux.arteyciencia&set=a.2508113919505631" target="blank"><span style="font-weight:bold;">
+						Galería</span><i class="fa fa-leaf"></i></a><br>
+						<br><span style="font-weight:bold;">2019. Mini Curso: "Introducción a la lustración Científica en Mastozoología"</span><br>XXXII Jornadas Argentinas de Mastozoología. 
+						13 de noviembre. Puerto Madryn, Chubut, Argentina. 
+						<br><a href="https://www.facebook.com/pg/JuliaRouaux.arteyciencia/photos/?tab=album&album_id=2463511393965884" target="blank"><span style="font-weight:bold;">
+						Galería</span><i class="fa fa-leaf"></i></a><br>
+						<br><span style="font-weight:bold;">2019. Curso on line: "Ilustra Entomología".</span> <br>Academia Illustraciencia. 2° edición: 14, 21 y 28 de octubre, y 4 y 11 de noviembre. <br>
+						<a href="https://www.facebook.com/pg/JuliaRouaux.arteyciencia/photos/?tab=album&album_id=2389896767994014" target="blank"><span style="font-weight:bold;">
+						Galería</span><i class="fa fa-leaf"></i></a><br>
+						<br><span style="font-weight:bold;">2019. Curso on line: "Ilustra Entomología".</span> <br>Academia Illustraciencia. 1° edición: 12, 19 y 26 de junio, y 3 y 10 de julio. <br>
+						<a href="https://www.facebook.com/pg/JuliaRouaux.arteyciencia/photos/?tab=album&album_id=2245710115746014" target="blank"><span style="font-weight:bold;">
+						Galería</span><i class="fa fa-leaf"></i></a><br>
+						<br><span style="font-weight:bold;">2019. Mini Curso: "Ilustración Científica: Técnica de Scratchboard"</span> Directora. <br>8° Jornadas Profesionales para Ilustradores, Feria Internacional del Libro de Buenos Aires. 25 de abril. CABA, Argentina. 
+						<br><a href="https://www.facebook.com/pg/JuliaRouaux.arteyciencia/photos/?tab=album&album_id=2289524668031225" target="blank"><span style="font-weight:bold;">
+						Galería</span><i class="fa fa-leaf"></i></a><br>
+						<br><span style="font-weight:bold;">2019. "1° JuntADA de Dibujo" </span> Museo de La Plata, Buenos Aires, Argentina. 27 de marzo. Organizada por la Asociación de Dibujantes de la Argentina, 
+						con apoyo de la Fundación del Museo Francisco Pascasio Moreno e Illustraciencia. <br>
+						<br><span style="font-weight:bold;">2019. "Ilustración Naturalista: insectos" y "Grabado y arte impreso" </span>. Las Grutas, Río Negro, Argentina.<br>
+						<br><span style="font-weight:bold;">2019. Curso de Posgrado: "Introducción a la Ilustración Científica".</span> Directora. <br>Universidad Nacional de la Patagonia San Juan Bosco, Facultad de Ciencias Naturales y Ciencias de la Salud, Sede Puerto Madryn. 11 al 22 de marzo. Puerto Madryn, Chubut, Argentina.<br>
+						<a href="https://www.facebook.com/pg/JuliaRouaux.arteyciencia/photos/?tab=album&album_id=2263009137349445" target="blank"><span style="font-weight:bold;">Galería</span><i class="fa fa-leaf"></i></a>
+						
+						<br> _______________________________ <br>
+						
+						<br><span style="font-weight:bold;">2018. Curso: "Introducción a la Ilustración Científica".</span> Directora. <br>Universidad Nacional de San Agustín de Arequipa y Museo de Historia Natural. 27 de agosto al 1 de septiembre. Arequipa, Perú.</a>
+						<br><a href="https://www.facebook.com/pg/JuliaRouaux.arteyciencia/photos/?tab=album&album_id=2127630924220601" target="blank"><span style="font-weight:bold;">Galería</span><i class="fa fa-leaf"></i></a><br>
+						<br><span style="font-weight:bold;">2018. Taller:"Descubriendo la naturaleza a través del Dibujo". </span> “Estación Juego” 2° edición. Ministerio de Ciencia, Tecnología e Innovación, el Municipio de Tandil y la UNICEN. 
+						21 de julio. Museo Municipal de Bellas Artes de Tandil, Buenos Aires, Argentina.<br>
+						<br><span style="font-weight:bold;">2018. Curso de Posgrado: "Introducción a la Ilustración Científica".</span> Directora. <br>Universidad Nacional de la Patagonia San Juan Bosco, Facultad de Ciencias Naturales y Ciencias de la Salud, Sede Puerto Madryn. 26 de febrero al 9 de marzo. Puerto Madryn, Chubut, Argentina.<br>
+						<a href="https://www.facebook.com/media/set/?set=a.1974640042853024.1073741862.1436490113334689&type=1&l=6fde6c2b00" target="blank"><span style="font-weight:bold;">Galería</span><i class="fa fa-leaf"></i></a>
+						
+						<br> _______________________________ <br>
+						 
+						<br><span style="font-weight:bold;">2017. Curso de Posgrado: "Introducción a la Ilustración Científica".</span> Directora. <br>Facultad de Ingeniería, sede Esquel. Universidad Nacional de la Patagonia San Juan Bosco. 6 al 17 de noviembre de 2017. Esquel, Chubut, Argentina.<br><a href="https://www.facebook.com/media/set/?set=a.1922136318103397.1073741861.1436490113334689&type=1&l=0b2ed1fa31" target="blank"><span style="font-weight:bold;">Galería</span><i class="fa fa-leaf"></i></a><br>
+						 <br><span style="font-weight:bold;">2017. Talleres de Arte Naturalista: "Ilustrando Caracoles", "Ilustración Botánica", "Ilustrando Mariposas" e "Ilustrando Insectos". </span> Marzo- mayo. La Plata, Buenos Aires, Argentina.
+						
+						<br> _______________________________ <br>
+						<br><span style="font-weight:bold;">2016. Talleres de Ilustración Naturalista: "Ilustrando Insectos", "Ilustrando Huesos" e "Ilustrando Mamíferos".</span> Noviembre. Hostería Valle del Sol, San Carlos de Bariloche, Río Negro, Argentina.
+						<br><br><span style="font-weight:bold;">2016. Curso de Posgrado: "Introducción a la Ilustración Científica".</span> Directora. <br>Facultad de Ingeniería, sede Esquel. Universidad Nacional de la Patagonia San Juan Bosco. 19 al 28 de octubre de 2016. Esquel, Chubut, Argentina.<br><a href="https://www.facebook.com/media/set/?set=a.1692826641034367.1073741855.1436490113334689&type=1&l=0f4a222d9c" target="blank"><span style="font-weight:bold;">Galería</span><i class="fa fa-leaf"></i></a><br>
+						<br><span style="font-weight:bold;"> 2016. Talleres de Ilstración Naturalista: "Ilustrando insectos", "Ilustrando huesos" e "Ilustrando mamíferos". </span>Junio-julio. La Plata, Buenos Aires, Argentina.
+					    <br><br><span style="font-weight:bold;">2016. Minicurso: "Ilustração zoológica: técnicas em branco e preto"</span>, dictado junto a M. Cristina Estivariz y Marianne Späth.<br> V Encontro Brasileiro sobre Ilustração Científica. 20 al 23 de julio del 2016. Florianópolis, Brasil.<br><a href="http://5ebic.com/ilustracao-zoologica-tecnicas-em-branco-e-preto/" target="blank"><span style="font-weight:bold;">Página del encuentro </span><i class="fa fa-leaf"></i></a><br>
+					    <br><span style="font-weight:bold;">2016. Talleres de "Arte Naturalista".</span> Mayo. Las Grutas, Río Negro, Argentina. <br> 
+						<br><span style="font-weight:bold;">2016. Curso de Posgrado: "Introducción a la Ilustración Científica".</span> Directora. <br>Escuela Superior de Ciencias Marinas, Universidad Nacional del Comahue (UNCo). 2 al 14 de mayo de 2016. San Antonio Oeste, Río Negro, Argentina.<br><a href="https://www.facebook.com/media/set/?set=a.1601028783547487.1073741846.1436490113334689&type=1&l=0faf7c9653" target="blank"><span style="font-weight:bold;">Galería</span><i class="fa fa-leaf"></i></a>
+						
+											
+						<br> _______________________________ <br>
+						
+						<br><span style="font-weight:bold;"> 2009-2014. "Introducción a la Ilustración Científica"</span>, dictado junto a M. Cristina Estivariz y Marianne Späth (2009, 2010, 2011 y 2013) y M. Cristina Estivariz y Manuel Copello (2014). CEPAVE (CONICET- UNLP). <br>
+						<br><span style="font-weight:bold;"> 2011. "Introducción al manejo de programas gráficos de computación para científicos"</span>, dictado junto a la Arq. Cecilia Gorretta. Facultad de Ciencias Naturales y Museo, UNLP.<br><br></p>
+		   		        </p>
+		   		    </div>
+                </div>
+            </div>
+		 
+		 
+</section>
+
+
+
+		<!-- SECTION CONTACT -->
+
+<section id="fbsection6">
+    <div class="block">
+        <div class="inner-left">
+            <header class="contact-title">CONTACTO</header>
+            <form class="email-form" method="post" action="" id="contact_form">
+                <input type="hidden" name="contact_number">
+                <input name="user_name" id="user_name" placeholder="Nombre">
+                <input type="email" name="user_email" id="user_email" placeholder="E-mail" required>
+                <textarea name="message" id="message" placeholder="Mensaje" cols="30" rows="10"></textarea>
+                <input type="submit" class="btn" value="ENVIAR">
+                <p class="success" style="display:none;">Tu mensaje se ha enviado correctamente.</p>
+                <p class="error" style="display:none;">El mensaje debe contener al menos 20 caracteres.</p>
+            </form>  
+
+            <ul class="about-data">
+                <li>
+                    <span class="value">Julia Rouaux</span>
+                    <div class="clear"></div>
+                </li>
+                <li>
+                    <span class="value"><span style="font-weight:bold;">email:</span>  ruojulia@gmail.com</span>
+                    <div class="clear"></div>
+                </li>
+                <li>
+                    <span class="value"><span style="font-weight:bold;"><a href="https://www.instagram.com/julia_rouaux/?hl=es-la/" target="blank"><i class="fa fa-instagram"></i></a></span> @julia_rouaux </span>
+                    </a>
+                    <div class="clear"></div>
+                </li> 
+                <li>
+                    <span class="value"><span style="font-weight:bold;"><a href="https://www.facebook.com/JuliaRouaux.arteyciencia/" target="blank"><i class="fa fa-facebook"></i></a></span> JuliaRouaux.arteyciencia </span>
+                    </a>
+                    <div class="clear"></div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</section>
+<script src="js/layout.js" type="text/javascript"></script>
+
+
+<!-- the jScrollPane script -->
+
+<script type="text/javascript" src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="js/custom.js" type="text/javascript"></script>
+<script type="text/javascript" src="https://cdn.emailjs.com/sdk/2.3.2/email.min.js"></script>
+<script type="text/javascript">
+    (function(){
+       emailjs.init("user_KmX1FqgaQwW8TvqTYcy0d");
+    })();
+</script>
+
+<!-- Contact Form -->
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(function () {
+            "use strict";				
+            $('#contact_form').submit(function (e) {
+                e.preventDefault();
+                $('.error').hide();
+                this.contact_number.value = Math.random() * 100000 | 0;
+                emailjs.sendForm('contact_service', 'contact_form', this).then(
+                    function(response) {
+                        $('.success').fadeIn(1000);
+                    }, 
+                    function(error) {
+                        $('.error').fadeIn(1000);
+                    }
+                );
+            });
+        });
+    });
+</script>
+
+</body>
+</html>
+
